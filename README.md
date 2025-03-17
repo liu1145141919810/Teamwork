@@ -1,2 +1,2 @@
 # Teamwork
-Used for academic homework
+Used to store a copy preventing file loss
